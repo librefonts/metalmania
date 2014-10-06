@@ -1,0 +1,42 @@
+Fonts
+  Font:
+    Common name: Metal Mania
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2012 by Open Window (dathanboardman@gmail.com) with Reseved Font Name "Metal Mania"
+    License: This Font Software is licensed under the SIL Open Font License,
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002
+    Vendor: Open Window
+    Vendor url: http://www.fontbros.com/openwindow.php
+    Designer: Dathan Boardman
+    Designer url: http://www.fontbros.com/openwindow.php
+    Glyph count: 268
+    Character count: 259
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
